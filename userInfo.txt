@@ -1,0 +1,6 @@
+1,First1,Last1,Acct1,1234,B
+2,First2,Last2,Acct2,abcd,B
+3,First3,Last3,Acct3,fffff,L
+First1,Last1,Acct1,1234
+First2,Last2,Acct2,abcd
+First3,Last3,Acct3,fffff
